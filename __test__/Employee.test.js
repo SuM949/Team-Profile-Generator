@@ -1,4 +1,4 @@
-const Employee = reuire('../lip/Employee');
+const Employee = require('../lip/Employee');
 const employee = new Employee('sumaya', '07878','sumayabile8@gmail.com');
 
 test ('test if we can get the constructor values for the employee object', () =>{
