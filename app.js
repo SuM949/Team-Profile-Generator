@@ -1,8 +1,8 @@
  const inquirer = require('inquirer');
  const Manager = require('./lib/Manager');
  const Engineer = require('./lib/Engineer');
- const Intern = require('./Intern');
- const generateSite = require('./src/generate-site.js');
+ const Intern = require('./lib/Intern');
+ const generateSite = require('./src/generate-site');
  const fs = require("fs");
  const path = require("path");
  const OUTPUT_DIR = path.resolve(__dirname, "output")
@@ -24,13 +24,8 @@
                }
            }
          },
-
          
-     
-  
-
-
-  {
+    {
     type:'input',
     name:'employeeId',
     message:'Enter your employee ID (Required',
