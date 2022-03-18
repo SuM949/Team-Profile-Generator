@@ -68,4 +68,4 @@ This application is rendered under MIT
  [Email](mailto:sumayabile8@gmail.com) , [Github](https://github.com/SuM949)
  
  ## video
-hhttps://drive.google.com/file/d/11hkk44eymBh47s3ur4HOdRDFSncLerEz/view?usp=sharing
+(https://drive.google.com/file/d/11hkk44eymBh47s3ur4HOdRDFSncLerEz/view?usp=sharing)
